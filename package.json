@@ -154,7 +154,7 @@
     "@tsed/di": "^7.18.2",
     "@tsed/exceptions": "^7.18.2",
     "@tsed/json-mapper": "^7.18.2",
-    "@tsed/logger": "^6.3.4",
+    "@tsed/logger": "^6.6.0",
     "@tsed/openspec": "^7.18.2",
     "@tsed/platform-express": "^7.18.2",
     "@tsed/prisma": "^7.18.2",
